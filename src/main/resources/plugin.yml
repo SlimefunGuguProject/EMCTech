@@ -9,53 +9,167 @@ depend:
   - Slimefun
 softdepend:
   - GuizhanLibPlugin
-  - PlaceholderAPI
-  - ExoticGarden
+  - SlimeGlue
+  - RykenSlimefunCustomizer
   - ColoredEnderChests
-  - LuckyBlocks
-  - HotbarPets
-  - SoulJars
+  - DyedBackpacks
+  - EnderCargo
+  - EcoPower
   - ElectricSpawners
-  - PrivateStorage
+  - ExoticGarden
   - ExtraGear
   - ExtraHeads
+  - HotbarPets
+  - luckyblocks-sf
+  - RedstoneConnector
+  - PrivateStorage
   - SlimefunOreChunks
-  - DyedBackpacks
   - SlimyTreeTaps
-  - MobCapturer
+  - SoulJars
+  - CommandOverride
+  - EmeraldEnchants2
+  - QuickMarket
+  - QuickSell
+  - RankPrefixPlus
+  - MoreTools
   - LiteXpansion
-  - EcoPower
-  - HardcoreSlimefun
+  - MobCapturer
   - SoundMuffler
   - ExtraTools
   - TranscEndence
-  - MoreTools
+  - Liquid
+  - SFCalc
+  - SlimefunWarfare
+  - Slimy-Power-Suits
+  - InfernalExpansion
   - FluffyMachines
+  - SlimyRepair
   - InfinityExpansion
-  - SimpleUtils
   - FoxyMachines
   - GlobalWarming
-  - SlimefunWarfare
-  - Liquid
+  - GlobiaMachines
   - DynaTech
-  - SlimyRepair
-  - SlimeCustomizer
+  - GeneticChickengineering
+  - HeadLimiter
+  - BlockLimiter
+  - SlimeXpansion
+  - Barrels
+  #- ClayTech
+  - FNAmplifications
   - SimpleMaterialGenerators
+  - Netheopoiesis
+  - Networks
+  - EMC2
+  - Nexcavate
   - SimpleStorage
+  - SimpleUtils
   - AlchimiaVitae
   - SlimeTinker
   - PotionExpansion
   - FlowerPower
   - Galactifun
-  - FNAmplifications
   - ElementManipulation
   - CrystamaeHistoria
+  - DankTech
   - DankTech2
-  - Networks
+  - Networks-Changed
   - VillagerUtil
   - MissileWarfare
-  - SupremeExpansion
+  - SensibleToolbox
+  - Endrex
   - Bump
+  - FinalTech # For build 29- (included)
+  - FinalTECH # For build 29+
+  - SlimefunLuckyBlocks
+  - FutureTech
+  - DemonicExpansion
+  - BedrockTechnology
+  - SlimefunItemExpansion
+  - SupplementalServiceableness
+  - GuizhanCraft
+  - Magmanimous
+  - UltimateGenerators-RC27 # 不确定是否存在这个版本
+  - UltimateGenerators # 构建站有
+  - UltimateGenerators2 # 同上
+  - CrispyMachine
+  - DimensionTraveler
+  - Chocohills
+  - draconic # 疑似新版
+  - DracFun # 疑似旧版(?
+  - EzSFAddon # 疑似旧版
+  - EzTech # 疑似新版
+  - RandomExpansion
+  - ExLimus
+  - MoneyAndThings
+  - VoidHarvesters
+  - SlimyBees
+  - GeneticManipulation
+  - ObsidianExpansion
+  - NotEnoughAddons
+  - SlimeSec
+  - RelicsOfCthonia
+  - Supreme
+  - DyeBench
+  - MiniBlocks
+  - SlimeHUD
+  - SpiritsUnchained
+  - Cultivation
+  - Gastronomicon
+  - SmallSpace
+  - BetterReactor
+  - BetterGenerator
+  - VillagerTrade
+  - SlimeFrame
+  - AdvancedTech
+  - Quaptics
+  - CompressionCraft
+  - CringleBosses
+  - ThermalFun
+  - FastMachines
+  - MomoTech
+  - OreGeneration
+  - Huolaiy
+  - EnchanterLimit
+  - LogicTech
+  - LogiTech
+  - LogicTECH
+  - LogiTECH
+  - SlimeAE
+  - SlimeChem
+  - WilderNether
+  - MapJammers
+  - Cakecraft
+  - SFMobDrops
+  - Drugfun
+  - SlimefunNukes
+  - SlimeCustomizer
+  - HardcoreSlimefun
+  - SfChunkInfo
+  - SlimefunTranslation
+  - FinalTECH-Changed
+  - Blueprint
+  - SlimefunMobDrops
+  - BearFluidTanks
+  - SCrafter
+  - EquivalencyTech
+  - LuckyPandas
+  - FasterTools
+  - Beyond_Horizons
+  - BloodAlchemy
+  - ExtraUtils
+  - BlueSlime
+  - XpCreator
+  - BetterFarming
+  - Automation
+  - Ex-Limus
+  - EzMiner
+  - NetherEnough
+  - magic-powder
+  - BoxOfChocolates
+  - AdditionalWeaponry
+  - DisguiseCookies
+  - MagicXpansion
+  - Tofu-Addons
 commands:
   emctech:
     description: /emctech
