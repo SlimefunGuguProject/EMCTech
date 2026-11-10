@@ -9,16 +9,7 @@
 
 ## 下载
 
-点击这里下载 EMCTech: [下载 EMCTech](https://builds.guizhanss.net/SlimefunGuguProject/EMCTech/master)
-
-<p align="center">
-  <a href="https://github.com/SlimefunGuguProject/EMCTech/actions/workflows/maven.yml">
-    <img src="https://github.com/SlimefunGuguProject/EMCTech/actions/workflows/maven.yml/badge.svg" alt="Java CI"/>
-  </a>
-  <a href="https://builds.guizhanss.net/SlimefunGuguProject/EMCTech/master">
-    <img src="https://builds.guizhanss.net/f/SlimefunGuguProject/EMCTech/master/badge.svg" alt="Build status"/>
-  </a>
-</p>
+[下载 EMCTech](https://resources.guizhanss.com/plugin/EMCTech)
 
 ## 指令与权限
 
